@@ -342,7 +342,7 @@ https://flask-docker.1i36eco0q6b5.us-south.codeengine.appdomain.cloud
  https://flask-docker.1i36eco0q6b5.us-south.codeengine.appdomain.cloud/predict 
 ```
 
-## 5. Testing endpoint menggunakan React
+## 5. Testing endpoint menggunakan Postman
 
 - Sebelum pengetesan menggunakan React, buka aplikasi Postman, dan tes endpoint diatas menggunakan tata cara seperti sebelumnya:
 
